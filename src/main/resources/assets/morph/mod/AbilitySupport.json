@@ -64,6 +64,10 @@
   "am2.entities.EntityWaterElemental": [
     "hostile"
   ],
+  "at.tyron.butterflymania.entity.EntityButterfly": [
+    "fly|true",
+    "fallNegate"
+  ],
   "biomesoplenty.common.entities.EntityBird": [
     "fly|true"
   ],
